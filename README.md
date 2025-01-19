@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pytorch<br><br>🌱 I’m currently learning front end dev<br><br>👯 I’m looking to collaborate on garbage detection management in campus<br><br>🤝 I’m looking for help with Open CV<br><br>👨‍💻 All of my projects are available at yettocome.com<br><br>📝 I regularly write articles on yettowrite.com<br><br>💬 Ask me about deep learning,neural networks,front end<br><br>📫 How to reach me alanchrisdisilva2@gmail.com<br><br>📄 Know about my experiences a.com<br><br>⚡ Fun fact "I write code that works... sometimes. 🤷‍♂️🐛
+🔭 I’m currently working on Pytorch and developing front end projects <br><br>🌱 I’m currently learning front end dev<br><br>👯 I’m looking to collaborate on garbage detection management in campus<br><br>🤝 I’m looking for help with Open CV<br><br>👨‍💻 All of my projects are available at yettocome.com<br><br>📝 I regularly write articles on yettowrite.com<br><br>💬 Ask me about deep learning,neural networks,front end<br><br>📫 How to reach me alanchrisdisilva2@gmail.com<br><br>📄 Know about my experiences a.com<br><br>⚡ Fun fact "I write code that works... sometimes. 🤷‍♂️🐛
 
 
 ## 🌐 Socials:
