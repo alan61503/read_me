@@ -1,3 +1,6 @@
+![](https://raw.githubusercontent.com/alan61503/alan61503/refs/heads/main/your_cool_intro.gif)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Pytorch and developing front end projects <br>🌱 I’m currently learning front end dev<br>👯 I’m looking to collaborate on garbage detection management in campus<br>🤝 I’m looking for help with Open CV<br>👨‍💻 All of my projects are available at yettocome.com<br>📝 I regularly write articles on yettowrite.com<br>💬 Ask me about deep learning,neural networks,front end<br>📫 How to reach me alanchrisdisilva2@gmail.com<br>📄 Know about my experiences a.com<br>⚡ Fun fact "I write code that works... sometimes. 🤷‍♂️🐛
 
