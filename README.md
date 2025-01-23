@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Pytorch and developing front end projects <br><br>🌱 I’m currently learning front end dev<br><br>👯 I’m looking to collaborate on garbage detection management in campus<br><br>🤝 I’m looking for help with Open CV<br><br>👨‍💻 All of my projects are available at yettocome.com<br><br>📝 I regularly write articles on yettowrite.com<br><br>💬 Ask me about deep learning,neural networks,front end<br><br>📫 How to reach me alanchrisdisilva2@gmail.com<br><br>📄 Know about my experiences a.com<br><br>⚡ Fun fact "I write code that works... sometimes. 🤷‍♂️🐛
 
-
+  ![Snake animation](https://github.com/alan61503/alan61503/blob/output/github-contribution-grid-snake.svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ft.alxn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-chris-disilva) 
 
