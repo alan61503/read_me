@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Pytorch and developing front end projects <br>🌱 I’m currently learning front end dev<br>👯 I’m looking to collaborate on garbage detection management in campus<br>🤝 I’m looking for help with Open CV<br>👨‍💻 All of my projects are available at yettocome.com<br>📝 I regularly write articles on yettowrite.com<br>💬 Ask me about deep learning,neural networks,front end<br>📫 How to reach me alanchrisdisilva2@gmail.com<br>📄 Know about my experiences a.com<br>⚡ Fun fact "I write code that works... sometimes. 🤷‍♂️🐛
+🔭 I’m currently working on Pytorch and developing front end projects <br>🌱 I’m currently learning front end dev<br>👯 I’m looking to collaborate on garbage detection management in campus<br>🤝 I’m looking for help with Open CV<br>👨‍💻 All of my projects are available at yettocome.com<br>📝 I regularly write articles on yettowrite.com<br>💬 Ask me about deep learning,neural networks,front end<br>📫 How to reach me alanchrisdisilva2@gmail.com<br>📄 Know about my experiences a.com<br>⚡ Fun fact "I write code that works... sometimes... 🤷‍♂️🐛
 
   ![Snake animation](https://raw.githubusercontent.com/alan61503/alan61503/output/github-contribution-grid-snake-dark.svg)
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://raw.githubusercontent.com/alan61503/alan61503/refs/heads/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
